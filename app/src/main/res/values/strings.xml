@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">播放器</string>
+    <string name="t1">选择音乐进行播放</string>
+    <string name="one">blue</string>
+    <string name="two">Last Dance</string>
+    <string name="three">Make Love</string>
+</resources>
